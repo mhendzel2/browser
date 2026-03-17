@@ -1,0 +1,5 @@
+fastapi[standard]
+playwright
+markdownify
+requests
+uvicorn
