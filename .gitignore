@@ -43,3 +43,7 @@ dist/
 build/
 .next/
 out/
+
+# Auto-added secret exclusions
+*.pem
+*.key
